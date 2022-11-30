@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Aplikasi O Bengkel</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm">Konfirmasi Password</string>
+    <string name="username">Username</string>
+    <string name="name">Nama</string>
+    <string name="telp">No Telepon</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="do_not_have_account">Belum punya akun?</string>
+    <string name="have_account">Sudah Punya Akun?</string>
+    <string name="welcome_capt">Selamat Datang Kembali</string>
+    <string name="add_welcome_capt">Semoga Harimu Menyenangkan</string>
+    <string name="forget_password">Lupa Sandi ?</string>
+
+    <!--String Menu-->
+    <string name="repair_service">Jasa Bengkel</string>
+    <string name="crane_service">Jasa Derek</string>
+    <string name="profile_menu">Profile</string>
+    <string name="chat_menu">Chat</string>
+    <string name="history_menu">Riwayat</string>
+    <string name="promo_menu">Promo</string>
+    <string name="article_menu">Artikel Terkait</string>
+
+    <!--Repair Crane Form Menu-->
+    <string name="data_kendaraan">1. Data Kendaraan</string>
+    <string name="data_jadwal">2. Data Jadwal</string>
+    <string name="data_diri">3. Data Diri</string>
+    <string name="data_alamat">2. Data Lokasi</string>
+    <string name="merk_brand_mobil">Merk Brand Mobil</string>
+    <string name="type_mobil">Type Mobil</string>
+    <string name="varian_mobil">Varian Mobil</string>
+    <string name="tahun_kendaraan">Tahun Kendaraan</string>
+    <string name="plat">Plat Kendaraan</string>
+    <string name="keluhan">Keluhan</string>
+    <string name="tanggal">Pilih Tanggal</string>
+    <string name="waktu">Pilih Waktu</string>
+    <string name="alamat">Alamat</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="lokasi_tujuan">Lokasi Tujuan</string>
+    <string name="keterangan">Keterangan Tambahan</string>
+    <string name="kirim">Kirim</string>
+
+    <!--History Menu-->
+    <string name="on_progress">Sedang Berjalan</string>
+    <string name="completed">Selesai</string>
+
+    <!--Profile Menu-->
+    <string name="profile_edit">Edit Profil</string>
+    <string name="term_condition">Syarat dan Ketentuan</string>
+    <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="contact_us">Hubungi Kami</string>
+
+    <!--Article Menu-->
+    <string name="article_title">Digitalisasi Otomotif</string>
+    <string name="article_content">Lihat Selengkapnya...</string>
+
+    <!--Promo Menu-->
+    <string name="promo_title">Promo 50%</string>
+    <string name="promo_content">Syarat Ketentuan bla bla bla...</string>
+
+
+    <!--Mechanic Dummy Daya-->
+    <string name="detail">Pilih Montir</string>
+    <string name="mechanic_name">Montir Riswan</string>
+    <string name="mechanic_location">Area Jatinangor &amp; Bandung</string>
+    <string name="mechanic_age">25 Tahun</string>
+    <string name="mechanic_rate">100%</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
