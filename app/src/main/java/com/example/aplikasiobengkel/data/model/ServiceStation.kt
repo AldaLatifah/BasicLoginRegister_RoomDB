@@ -1,4 +1,4 @@
-package com.example.obengkel_application.data.model
+package com.example.aplikasiobengkel.data.model
 
 data class ServiceStation(
     val name : String?,
