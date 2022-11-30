@@ -2,9 +2,8 @@ package com.example.aplikasiobengkel.ui.auth.login
 
 import android.app.Application
 import androidx.lifecycle.*
-import com.example.aplikasiobengkel.MyApplication
 import com.example.aplikasiobengkel.data.repository.UserRepository
-import com.example.obengkel_application.data.model.User
+import com.example.aplikasiobengkel.data.model.User
 import kotlinx.coroutines.launch
 
 
@@ -19,6 +18,4 @@ class LoginViewModel(application: Application) : ViewModel(){
            _account.value = repository.getUsername(email)
        }
     }
-
-
 }
