@@ -1,8 +1,8 @@
 package com.example.aplikasiobengkel.data.local
 
 import com.example.aplikasiobengkel.R
-import com.example.obengkel.utils.Strings
-import com.example.obengkel_application.data.model.*
+import com.example.aplikasiobengkel.data.model.*
+import com.example.aplikasiobengkel.utils.Strings
 
 object Data {
 

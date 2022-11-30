@@ -1,13 +1,11 @@
-package com.example.obengkel_application.data.model
+package com.example.aplikasiobengkel.data.model
 
-import android.os.Parcelable
-import kotlinx.parcelize.Parcelize
-import androidx.room.*
+import androidx.room.Entity
+import androidx.room.PrimaryKey
 
-@Entity
+@Entity(tableName = "user")
 data class User(
-    @PrimaryKey
-    var id: Int,
+    @PrimaryKey var id: Int,
     var name: String,
     var username: String,
     var telp: String,
