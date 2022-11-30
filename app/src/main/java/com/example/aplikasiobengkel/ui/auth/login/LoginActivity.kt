@@ -3,16 +3,10 @@ package com.example.aplikasiobengkel.ui.auth.login
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.activity.viewModels
 import androidx.lifecycle.ViewModelProvider
-import com.example.aplikasiobengkel.MyApplication
-import com.example.aplikasiobengkel.data.database.OBengkelDatabase
-import com.example.aplikasiobengkel.data.repository.UserRepository
 import com.example.aplikasiobengkel.databinding.ActivityLoginBinding
 import com.example.aplikasiobengkel.ui.auth.register.RegisterActivity
 import com.example.aplikasiobengkel.ui.main.MainActivity
-import com.example.obengkel_application.data.model.User
-
 
 
 class LoginActivity : AppCompatActivity() {

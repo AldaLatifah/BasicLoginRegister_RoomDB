@@ -8,10 +8,7 @@ import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
 import com.example.aplikasiobengkel.databinding.ActivityRegisterBinding
 import com.example.aplikasiobengkel.ui.auth.login.LoginActivity
-import com.example.aplikasiobengkel.ui.auth.login.LoginViewModel
-import com.example.aplikasiobengkel.ui.auth.login.LoginViewModelFactory
-import com.example.aplikasiobengkel.ui.main.MainActivity
-import com.example.obengkel_application.data.model.User
+import com.example.aplikasiobengkel.data.model.User
 
 class RegisterActivity : AppCompatActivity() {
     private var user: User? = null
